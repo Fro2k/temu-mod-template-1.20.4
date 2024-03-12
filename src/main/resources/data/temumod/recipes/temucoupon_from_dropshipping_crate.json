@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "temumod:dropshipping_crate"
+    }
+  ],
+  "result": {
+    "item": "temumod:temucoupon",
+    "count": 10
+  }
+}
