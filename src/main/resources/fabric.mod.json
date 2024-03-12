@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "temumod",
+	"version": "${version}",
+	"name": "Temu Mod",
+	"description": "TEMU FREE NINTENDO SWITCH REFERRAL LINK IN BIO!!!!!",
+	"authors": [
+		"Fro2k"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/temumod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fro2k.temumod.TemuMod"
+		],
+		"client": [
+			"net.fro2k.temumod.TemuModClient"
+		],
+		"fabric-datagen": [
+			"net.fro2k.temumod.TemuModDataGenerator"
+		]
+	},
+	"mixins": [
+		"temumod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
