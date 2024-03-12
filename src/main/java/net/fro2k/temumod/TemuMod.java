@@ -11,6 +11,7 @@ public class TemuMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		// Test commit
 		LOGGER.info("Hello Fabric world!");
 	}
 }
