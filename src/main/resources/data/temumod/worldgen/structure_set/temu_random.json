@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "temumod:temu_billboard",
+      "weight": 2
+    },
+    {
+      "structure": "temumod:temu_small_store",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1662440939,
+    "frequency": 1,
+    "spacing": 2,
+    "separation": 1
+  }
+}
