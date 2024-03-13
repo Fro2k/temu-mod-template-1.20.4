@@ -18,9 +18,28 @@ public class ModItemGroups {
 
                     // MOD ITEM ADDITIONS HERE
                     entries.add(ModItems.TEMUCOUPON);
+                    entries.add(ModItems.CRATEDETECTOR);
+                    entries.add(ModItems.SWATCH);
+                    entries.add(ModItems.PHONE);
+                    entries.add(ModItems.AIRBUDS);
+                    entries.add(ModItems.DASHCAM);
+                    entries.add(ModItems.GUN);
+                    entries.add(ModItems.FLASHLIGHT);
+                    entries.add(ModItems.BLAUX);
+                    entries.add(ModItems.AIART);
+                    entries.add(ModItems.PLUSH);
 
                     // MOD BLOCK ADDITIONS HERE
                     entries.add(ModBlocks.DROPSHIPPING_CRATE);
+                    entries.add(ModBlocks.TEMU_SIGN_BLOCK);
+                    entries.add(ModBlocks.T_SIGN_BLOCK);
+                    entries.add(ModBlocks.E_SIGN_BLOCK);
+                    entries.add(ModBlocks.M_SIGN_BLOCK);
+                    entries.add(ModBlocks.U_SIGN_BLOCK);
+                    entries.add(ModBlocks.DRESS_SIGN_BLOCK);
+                    entries.add(ModBlocks.TOY_SIGN_BLOCK);
+                    entries.add(ModBlocks.HEEL_SIGN_BLOCK);
+                    entries.add(ModBlocks.BAG_SIGN_BLOCK);
 
 
                 }).build());

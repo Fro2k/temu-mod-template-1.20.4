@@ -1,6 +1,14 @@
 {
   "replace": false,
   "values": [
-
+    "temumod:temu_sign_block",
+    "temumod:t_sign_block",
+    "temumod:e_sign_block",
+    "temumod:m_sign_block",
+    "temumod:u_sign_block",
+    "temumod:dress_sign_block",
+    "temumod:toy_sign_block",
+    "temumod:heel_sign_block",
+    "temumod:bag_sign_block"
   ]
 }

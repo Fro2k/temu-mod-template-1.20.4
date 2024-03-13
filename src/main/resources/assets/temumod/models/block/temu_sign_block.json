@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "temumod:block/temu_sign_block"
+  }
+}

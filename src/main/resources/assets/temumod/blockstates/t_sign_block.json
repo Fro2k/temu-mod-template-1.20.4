@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "temumod:block/t_sign_block"
+    }
+  }
+}

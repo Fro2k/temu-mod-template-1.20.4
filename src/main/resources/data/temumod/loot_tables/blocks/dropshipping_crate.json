@@ -2,20 +2,78 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "bonus_rolls": 0.0,
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "rolls": 4,
+      "bonus_rolls": {
+        "min": 0,
+        "max": 4
+      },
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "temumod:dropshipping_crate"
+          "weight": 4,
+          "name": "minecraft:oak_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:oak_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "temumod:temucoupon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "temumod:plush"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "temumod:aiart"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "temumod:blaux"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "temumod:flashlight"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "temumod:gun"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "temumod:dashcam"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "temumod:airbuds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "temumod:phone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "temumod:swatch"
         }
-      ],
-      "rolls": 1.0
+      ]
     }
-  ],
-  "random_sequence": "temumod:blocks/dropshipping_crate"
+  ]
 }

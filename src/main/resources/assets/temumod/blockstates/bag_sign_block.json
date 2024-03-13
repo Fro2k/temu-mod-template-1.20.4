@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "temumod:block/bag_sign_block"
+    }
+  }
+}

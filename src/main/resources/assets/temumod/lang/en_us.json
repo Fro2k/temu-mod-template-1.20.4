@@ -1,6 +1,27 @@
 {
   "item.temumod.temucoupon": "Temu Coupon",
+  "item.temumod.cratedetector": "Dropshipping Crate Detector",
+
   "block.temumod.dropshipping_crate": "Dropshipping Crate",
+  "block.temumod.temu_sign_block": "Temu Sign Block",
+  "block.temumod.t_sign_block": "T Sign Block",
+  "block.temumod.e_sign_block": "E Sign Block",
+  "block.temumod.m_sign_block": "M Sign Block",
+  "block.temumod.u_sign_block": "U Sign Block",
+  "block.temumod.dress_sign_block": "Dress Sign Block",
+  "block.temumod.toy_sign_block": "Toy Sign Block",
+  "block.temumod.heel_sign_block": "Heel Sign Block",
+  "block.temumod.bag_sign_block": "Bag Sign Block",
+  "item.temumod.swatch": "Free Nintendo Switch",
+  "item.temumod.phone": "iPhone 15 Pro Max 5TB (No SIM card)",
+  "item.temumod.airbuds": "1pcs AirPod Pro Max Ultra",
+  "item.temumod.dashcam": "8K UQHD DashCam Camera Ultra-Wide Long Battery 8TB",
+  "item.temumod.gun": "Gun Stylish Red Camo Big Magazine Kill",
+  "item.temumod.flashlight": "1,000,000 Lumens Ultra Tactical Flashlight",
+  "item.temumod.blaux": "Blaux Air Conditioner Coldest Air Blower Small",
+  "item.temumod.aiart": "Beautiful Hand Painted Art Panda Cool Colorful Bright",
+  "item.temumod.plush": "Dog Plush Long Pillow Shiba Inu 87.5 Inches Cute",
+
 
   "itemgroup.temugroup": "Temu"
 }
